@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shame On You — Comedy Sketch Show & Podcast</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/sketches/">Sketches</a>
+    <a href="/podcast/">Podcast</a>
+    <a href="/cast/">Cast</a>
+    <a href="/contact/">Contact</a>
+  </nav>
+
+  <header class="hero">
+    <h1>Shame On You</h1>
+    <p class="tagline">Comedy for people who laugh at the wrong moments</p>
+  </header>
+
+  <section class="featured">
+    <h2>Featured Sketch</h2>
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/VIDEO_ID" allowfullscreen></iframe>
+    </div>
+  </section>
+
+  <section class="featured">
+    <h2>Latest Podcast Episode</h2>
+    <iframe src="https://open.spotify.com/embed/SHOW_OR_EPISODE_ID" allow="encrypted-media"></iframe>
+  </section>
+
+  <section class="about">
+    <h2>About the Show</h2>
+    <p>
+      Shame On You is a Ill‑humor comedy sketch show and podcast where satire,
+      chaos, and questionable decision‑making collide. If you’re easily offended,
+      you’ll probably still watch out of curiosity.
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2026 Shame On You</p>
+  </footer>
+</body>
+</html>
